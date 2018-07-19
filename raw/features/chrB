@@ -1,0 +1,253 @@
+{
+  "features": [
+    {
+      "end": 9744, 
+      "name": "chrB.au9.g1002", 
+      "score": 0.84, 
+      "start": 5975, 
+      "strand": 1, 
+      "subfeatures": [
+        {
+          "end": 9744, 
+          "name": "chrB.au9.g1002.t1", 
+          "score": 0.84, 
+          "start": 5975, 
+          "strand": 1, 
+          "subfeatures": [
+            {
+              "end": 6109, 
+              "score": 0.98, 
+              "start": 5975, 
+              "strand": 1, 
+              "type": "five_prime_UTR"
+            }, 
+            {
+              "end": 6112, 
+              "phase": 0, 
+              "start": 6110, 
+              "strand": 1, 
+              "type": "start_codon"
+            }, 
+            {
+              "end": 7319, 
+              "phase": 2, 
+              "score": 1, 
+              "start": 7142, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 7687, 
+              "phase": 1, 
+              "score": 1, 
+              "start": 7411, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 7850, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 7748, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 8098, 
+              "phase": 2, 
+              "score": 1, 
+              "start": 7953, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 8320, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 8166, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 6148, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 6110, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 6683, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 6615, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 7040, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 6758, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 8614, 
+              "phase": 1, 
+              "score": 1, 
+              "start": 8419, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 8811, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 8708, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 9239, 
+              "phase": 1, 
+              "score": 1, 
+              "start": 8927, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 9494, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 9414, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 9494, 
+              "phase": 0, 
+              "start": 9492, 
+              "strand": 1, 
+              "type": "stop_codon"
+            }, 
+            {
+              "end": 9744, 
+              "score": 0.86, 
+              "start": 9495, 
+              "strand": 1, 
+              "type": "three_prime_UTR"
+            }
+          ], 
+          "type": "mRNA", 
+          "uniqueID": "chrB.au9.g1002.t2"
+        }, 
+        {
+          "end": 9744, 
+          "name": "chrB.au9.g1002.t2", 
+          "score": 0.84, 
+          "start": 5975, 
+          "strand": 1, 
+          "subfeatures": [
+            {
+              "end": 6109, 
+              "score": 0.98, 
+              "start": 5975, 
+              "strand": 1, 
+              "type": "five_prime_UTR"
+            }, 
+            {
+              "end": 6112, 
+              "phase": 0, 
+              "start": 6110, 
+              "strand": 1, 
+              "type": "start_codon"
+            }, 
+            {
+              "end": 6148, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 6110, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 6683, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 6615, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 7040, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 6758, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 8320, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 8166, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 8614, 
+              "phase": 1, 
+              "score": 1, 
+              "start": 8419, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 8811, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 8708, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 9239, 
+              "phase": 1, 
+              "score": 1, 
+              "start": 8927, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 9494, 
+              "phase": 0, 
+              "score": 1, 
+              "start": 9414, 
+              "strand": 1, 
+              "type": "CDS"
+            }, 
+            {
+              "end": 9494, 
+              "phase": 0, 
+              "start": 9492, 
+              "strand": 1, 
+              "type": "stop_codon"
+            }, 
+            {
+              "end": 9744, 
+              "score": 0.86, 
+              "start": 9495, 
+              "strand": 1, 
+              "type": "three_prime_UTR"
+            }
+          ], 
+          "type": "mRNA", 
+          "uniqueID": "chrB.au9.g1002.t2"
+        }
+      ], 
+      "type": "gene", 
+      "uniqueID": "chrB.au9.g1002"
+    }
+  ]
+}

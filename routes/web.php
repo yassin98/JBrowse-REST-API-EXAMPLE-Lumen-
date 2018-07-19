@@ -1,6 +1,7 @@
 <?php
 
 $router->get('/', function () use ($router) {
+	
 	/*$CHROM_NAMES = ["chrA", "chrB", "chrX"];
     $seqs = array();
     $data = array();
@@ -13,6 +14,10 @@ $router->get('/', function () use ($router) {
 
 $router->get('/refSeqs', function () use ($router) 
 {
+	
+	// Example
+	$jsonContent = getJSON( "refSeqs.json" );
+	
 	//$CHROM_NAMES = ["chrA", "chrB", "chrX"];
 	$CHROM_NAMES=config('variables.CHROM_NAMES');
 
@@ -76,3 +81,13 @@ $router->get('/names', function () use ($router) {
 	}*/
 	return response()->json( $data );
 });
+
+
+function getJSON( $filepath ) {
+	
+	$rawDir = __DIR__."/../raw/"; //raw part replaced by a conf maybe
+	
+	$jsonContent = file_get_contents( $rawDir.$filepath );
+	
+	return $jsonContent;
+}

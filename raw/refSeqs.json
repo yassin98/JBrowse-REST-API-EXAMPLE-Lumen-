@@ -1,0 +1,23 @@
+[
+  {
+    "start": 0, 
+    "length": 21025, 
+    "seqChunkSize": 20000, 
+    "end": 21025, 
+    "name": "chrB"
+  }, 
+  {
+    "start": 0, 
+    "length": 24549, 
+    "seqChunkSize": 20000, 
+    "end": 24549, 
+    "name": "chrA"
+  }, 
+  {
+    "start": 0, 
+    "length": 12836, 
+    "seqChunkSize": 20000, 
+    "end": 12836, 
+    "name": "chrX"
+  }
+]
