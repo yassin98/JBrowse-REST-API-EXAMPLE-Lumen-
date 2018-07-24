@@ -323,7 +323,7 @@ function featuresGlobal()
 
 
 
-$router->get('/refSeqs', function (\Illuminate\Http\Request $request) use ($router) 
+$router->get('/refSeqs.json', function (\Illuminate\Http\Request $request) use ($router) 
 {
 	$seqs = seqsGlobal();
 	$resp = array();
